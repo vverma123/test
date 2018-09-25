@@ -1,11 +1,15 @@
 <?php 
 
-echo "hi"
+echo "hi";
 class a{
-  function a(){]
+ 
+  function a1(){
+    retrun FALSE;
+    
               }
   
-  $a111=fdgdfg;
+
 }
-new a();
-?.
+$A = new a();
+$A->A1();
+?>
