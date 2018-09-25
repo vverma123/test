@@ -5,6 +5,15 @@ class a{
  
   function a1(){
     retrun FALSE;
+    retrun FALSE;
+    retrun FALSE;
+    retrun FALSE;
+    retrun FALSE;
+    retrun FALSE;
+    retrun FALSE;
+    retrun FALSE;
+    retrun FALSE;
+    retrun FALSE;
     
               }
   
@@ -12,4 +21,15 @@ class a{
 }
 $A = new a();
 $A->A1();
+
+$A = new a();
+
+$A = new a();
+
+$A = new a();
+
+$A = new a();
+
+$A = new a();
+
 ?>
