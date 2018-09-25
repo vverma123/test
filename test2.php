@@ -25,9 +25,17 @@ $A->A1();$A->A1();$A->A1();$A->A1();
 $A = new a();
 
 $A = new a();
-
+$A = new a();
+$A = new a();
+$A = new a();
+$A = new a();
+$A = new a();
+$A = new a();
+$A = new a();
 $A = new a();
 
+$A = new a();
+$vcuivghy7gfvxcvcxvxcvxcvxcv=345435345;
 $A = new a();
 
 $A = new a();
