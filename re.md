@@ -46,7 +46,7 @@ AssignGeneralizeCredential constructor.
 
 #### Arguments
 * $register **Symplr\Registration\RegistrationInterface**
-* $generalizeCredential **Symplr\Services\GeneralizeCredential**
+* $generalizeCredential **Symplr\Services\GeneralizeCredential** - &lt;p&gt;Hello world&lt;/p&gt;
 
 
 
