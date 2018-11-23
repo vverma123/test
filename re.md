@@ -1,21 +1,17 @@
 Symplr\Payment\Refund\Features\Vendor1\ProspectDatabaseTransaction
 ===============
 
-This is the summary for a DocBlock.
+The short description
 
-This is the description for a DocBlock. This text may contain
-multiple lines and even some _markdown_.
-
-* Markdown style lists function too
-* Just try this out once
-
-The section after the description contains the tags; which provide
-structured meta-data concerning the given element.
+As many lines of extendend description as you want \Symplr\Payment\Refund\Features\Vendor1\element links to an element
+[Example hyperlink inline link](http://www.example.com) links to a website
+Below this goes the tags to further describe element you are documenting
 
 
 * Class name: ProspectDatabaseTransaction
 * Namespace: Symplr\Payment\Refund\Features\Vendor1
 * Parent class: [Symplr\Payment\Refund\RefundFeatureDecorator](Symplr-Payment-Refund-RefundFeatureDecorator.md)
+* **Warning:** this class is **deprecated**. This means that this class will likely be removed in a future version.
 
 
 
@@ -34,6 +30,7 @@ Properties
 
 
 * Visibility: **protected**
+* **Warning:** this property is **deprecated**. This means that this property will likely be removed in a future version.
 
 
 ### $feature
@@ -45,6 +42,7 @@ Properties
 
 
 * Visibility: **public**
+* **Warning:** this property is **deprecated**. This means that this property will likely be removed in a future version.
 
 
 Methods
@@ -94,6 +92,7 @@ This feature is used to fetch the prospect database transaction from the databas
 
 
 * Visibility: **public**
+* **Warning:** this method is **deprecated**. This means that this method will likely be removed in a future version.
 
 
 #### Arguments
@@ -110,6 +109,7 @@ This feature is used to fetch the prospect database transaction from the databas
 
 
 * Visibility: **public**
+* **Warning:** this method is **deprecated**. This means that this method will likely be removed in a future version.
 
 
 #### Arguments
