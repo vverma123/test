@@ -1,9 +1,16 @@
 Symplr\Payment\Refund\Features\Vendor1\ProspectDatabaseTransaction
 ===============
 
-This feature is used to fetch the prospect database transaction from the database and set the data in the refund data object.
+This is the summary for a DocBlock.
 
+This is the description for a DocBlock. This text may contain
+multiple lines and even some _markdown_.
 
+* Markdown style lists function too
+* Just try this out once
+
+The section after the description contains the tags; which provide
+structured meta-data concerning the given element.
 
 
 * Class name: ProspectDatabaseTransaction
