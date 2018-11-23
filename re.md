@@ -32,7 +32,6 @@ and to provide some background information or textual references.
 
 
 #### Arguments
-* $myArgument **string** - &lt;p&gt;With a &lt;em&gt;description&lt;/em&gt; of this argument, these may also
-span multiple lines.&lt;/p&gt;
+* $myArgument **string**
 
 
