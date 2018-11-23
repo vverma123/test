@@ -82,7 +82,7 @@ RefundFeatureDecorator constructor.
 
     mixed Symplr\Payment\Refund\Features\Vendor1\ProspectDatabaseTransaction::getTransaction(\Symplr\Payment\Refund\RefundData $data)
 
-
+This feature is used to fetch the prospect database transaction from the database and set the data in the refund data object.
 
 
 
@@ -98,7 +98,7 @@ RefundFeatureDecorator constructor.
 
     mixed Symplr\Payment\Refund\Features\Vendor1\ProspectDatabaseTransaction::fetchTransactionDetail(\Symplr\Payment\Refund\RefundData $data)
 
-
+This feature is used to fetch the prospect database transaction from the database and set the data in the refund data object.
 
 
 
