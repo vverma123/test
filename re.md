@@ -1,4 +1,4 @@
-Symplr\Registration\Features\AssignGeneralizeCredential
+a
 ===============
 
 
@@ -6,62 +6,33 @@ Symplr\Registration\Features\AssignGeneralizeCredential
 
 
 
-* Class name: AssignGeneralizeCredential
-* Namespace: Symplr\Registration\Features
-* Parent class: Symplr\Registration\RegistrationFeatureDecorator
+* Class name: a
+* Namespace: 
 
 
 
 
 
-Properties
-----------
-
-
-### $generalizeCredential
-
-    protected \Symplr\Services\GeneralizeCredential $generalizeCredential
-
-
-
-
-
-* Visibility: **protected**
 
 
 Methods
 -------
 
 
-### __construct
+### myFunction
 
-    mixed Symplr\Registration\Features\AssignGeneralizeCredential::__construct(\Symplr\Registration\RegistrationInterface $register, \Symplr\Services\GeneralizeCredential $generalizeCredential)
+    void a::myFunction(string $myArgument)
 
-AssignGeneralizeCredential constructor.
+A summary informing the user what the associated element does.
 
-
-
-* Visibility: **public**
-
-
-#### Arguments
-* $register **Symplr\Registration\RegistrationInterface**
-* $generalizeCredential **Symplr\Services\GeneralizeCredential** - &lt;p&gt;Hello world&lt;/p&gt;
-
-
-
-### process
-
-    mixed Symplr\Registration\Features\AssignGeneralizeCredential::process(\Symplr\Registration\RegistrationData $registrationData)
-
-
-
-
+A *description*, that can span multiple lines, to go _in-depth_ into the details of this element
+and to provide some background information or textual references.
 
 * Visibility: **public**
 
 
 #### Arguments
-* $registrationData **Symplr\Registration\RegistrationData**
+* $myArgument **string** - &lt;p&gt;With a &lt;em&gt;description&lt;/em&gt; of this argument, these may also
+span multiple lines.&lt;/p&gt;
 
 
